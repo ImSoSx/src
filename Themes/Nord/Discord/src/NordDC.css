@@ -62,7 +62,7 @@ section .da-scroller::-webkit-scrollbar-thumb {
 .theme-dark .noChannel-Z1DQK7,
 .theme-dark .gameLibrary-TTDw4Y,
 .theme-dark .applicationStore-1pNvnv {
-  background: var(--dm-chat-bg);
+  background: #2e3440;
 }
 .theme-dark .wrapper-29NfPK,
 .video-1FfuMD,
@@ -106,7 +106,7 @@ section .da-scroller::-webkit-scrollbar-thumb {
   background: transparent;
 }
 .theme-dark .chat-3bRxxu {
-  background: var(--dm-chat-bg);
+  background: #2e3440;
 }
 
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
@@ -2186,7 +2186,7 @@ svg polyline[stroke="#7289da"] {
   background-image: none;
 }
 .da-divider span.da-content {
-  background-color: var(--dm-chat-bg);
+  background-color: #2e3440;
 }
 .theme-dark .wrapper-2aW0bm {
   background-color: #1d1d1d;
@@ -2197,7 +2197,7 @@ svg polyline[stroke="#7289da"] {
   background-color: #3b4252;
 }
 .peopleColumn-29fq28 {
-  background-color: var(--dm-chat-bg, #1f1f1f);
+  background-color: #2e3440;
 }
 /* Pinned Messages & mentions*/
 .header-ykumBX {
