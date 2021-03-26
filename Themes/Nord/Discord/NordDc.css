@@ -5,9 +5,9 @@
 
   * @version 1.0
   */
-@import 
+@import url("https://imsosx.github.io/src/Themes/Nord/Discord/src/NordDC.css");
 /* Full user popout*/
-@import 
+@import url("https://imsosx.github.io/src/Themes/Nord/Discord/src/full_popout_avatars.css");
 /* Variables */
 :root {
   /* Dark Mode  */
