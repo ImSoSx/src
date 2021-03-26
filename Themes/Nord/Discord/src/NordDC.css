@@ -2362,3 +2362,14 @@ svg polyline[stroke="#7289da"] {
 .scrollerSpacer-avRLaA {
   height: 20px;
 }
+/*EXTRA*/
+.styledGuildsAsChannels-DNHtg_ .wrapper-3NnKdC,
+.styledGuildsAsChannels-DNHtg_ .wrapper-3NnKdC .scroller-1Bvpku,
+.styledGuildsAsChannels-DNHtg_
+  .wrapper-3NnKdC
+  .unreadMentionsIndicatorTop-2-tcdU,
+.styledGuildsAsChannels-DNHtg_
+  .wrapper-3NnKdC
+  .unreadMentionsIndicatorBottom-2mDYbI {
+  background-color: #2e3440 !important;
+}
