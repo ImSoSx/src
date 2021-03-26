@@ -10,7 +10,12 @@
 /* Variables */
 :root {
   /* Dark Mode  */
-  --dm-channel-color: hsla(240,1%,29%,0.5); /* Channel Selected/Hoverd background color | Theme's Default - hsla(240, 1%, 29%, 0.5) */
+  --dm-channel-color: hsla(
+    240,
+    1%,
+    29%,
+    0.5
+  ); /* Channel Selected/Hoverd background color | Theme's Default - hsla(240, 1%, 29%, 0.5) */
   --dm-chat-bg: #2e3440; /* Chat's background color | Theme's Default - #1a1a1a */
   /*            */
   --button-radius: 0px; /* Discord Default - 3px | Theme's Default - 0px */
